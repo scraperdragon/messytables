@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import unittest
 from . import horror_fobj
-
 from messytables.any import any_tableset
 
 
